@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "nombre": "Limpiador de Vidrios",
+        "precio": 990,
+        "img":"https://www.elgoloso.com.uy/imgs/productos/productos34_4309.jpg",
+        "cantidad": 1
+     },
+    
+    {
+        "id": 2,
+        "nombre": "Calentador Electrico",
+        "precio": 1690,
+        "img":"https://cdn.shopify.com/s/files/1/0758/3698/1562/products/imgcalentador.jpg?v=1682983371&width=1000",
+        "cantidad": 1
+     },
+    
+    {
+        "id": 3,
+        "nombre": "Percha 5 en 1",
+        "precio": 360,
+        "img":"https://cdn.shopify.com/s/files/1/0758/3698/1562/products/H9f693db22ebe4e728c4867b4c6d6d0d4j.jpg?v=1682985747&width=800",
+        "cantidad": 1
+     },
+    
+    {
+        "id": 4,
+        "nombre": "Plancha a Vapor",
+        "precio": 1100,
+        "img":"https://cdn.shopify.com/s/files/1/0758/3698/1562/products/Professional-Micro-Steam-Iron-Handheld-Household-Portable-30W-Mini-Fast-Heat-Ironing-Machine-Garment-Steamer-Home_jpg_Q90_jpg.webp?v=1682980445&width=1000",
+        "cantidad": 1
+     },
+
+     {
+        "id": 5,
+        "nombre": "Cinta Mágica",
+        "precio": 590,
+        "img":"https://cdn.shopify.com/s/files/1/0758/3698/1562/products/cinta.jpg?v=1682983601&width=700",
+        "cantidad": 1
+     },
+
+     {
+        "id": 6,
+        "nombre": "Alfombrilla para Drenaje",
+        "precio": 390,
+        "img":"https://cdn.shopify.com/s/files/1/0758/3698/1562/products/deso01_de37f9b7-c7b5-484e-bf72-4b5225a1aa02.png?v=1682980114&width=600",
+        "cantidad": 1
+     },
+
+     {
+        "id": 7,
+        "nombre": "Rallador 6 en 1",
+        "precio": 990,
+        "img":"https://cdn.shopify.com/s/files/1/0758/3698/1562/products/img5_d6eee180-a8cc-4bd3-bcd0-cfc558a72c1d.jpg?v=1682981496&width=1000",
+        "cantidad": 1
+     },
+
+     {
+        "id": 8,
+        "nombre": "Estante Multifuncional",
+        "precio": 1690,
+        "img":"https://cdn.shopify.com/s/files/1/0758/3698/1562/products/estante1.jpg?v=1682983234&width=1000",
+        "cantidad": 1
+     }
+    ]
+    
